@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acc3e499-018e-49d9-8c12-c35ed745840d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/CODEOWNERS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/ENHANCEMENT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug-report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature-req.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/incompatiblity-report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/gradle.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CREDITS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE-Paulscode IBXM Library.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE-Paulscode SoundSystem CodecIBXM.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/LunatriusCore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/client/gui/FontRendererHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/client/gui/GuiHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/client/gui/GuiNumericField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/client/gui/GuiScreenBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/client/gui/config/GuiConfigComplex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/client/gui/config/GuiConfigSimple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/client/renderer/GeometryMasks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/client/renderer/GeometryTessellator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/entity/EntityHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/exceptions/LocalizedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/handler/ConfigurationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/handler/DelayedGuiDisplayTicker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/proxy/ClientProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/proxy/CommonProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/proxy/ServerProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/reference/Names.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/reference/Reference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/math/BlockPosHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/math/MBlockPos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/vector/Vector2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/vector/Vector2f.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/vector/Vector2i.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/vector/Vector3d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/vector/Vector3f.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/vector/Vector3i.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/vector/Vector4d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/vector/Vector4f.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/util/vector/Vector4i.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/version/ForgeVersionCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/version/VersionChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/core/world/chunk/ChunkHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/Schematica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/api/ISchematic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/api/event/DuplicateMappingException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/api/event/PostSchematicCaptureEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/api/event/PreSchematicSaveEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/api/event/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/api/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/block/state/BlockStateHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/block/state/pattern/BlockStateReplacer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/gui/config/GuiFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/gui/control/GuiSchematicControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/gui/control/GuiSchematicMaterials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/gui/control/GuiSchematicMaterialsSlot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/gui/load/GuiSchematicEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/gui/load/GuiSchematicLoad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/gui/load/GuiSchematicLoadSlot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/gui/save/GuiSchematicSave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/printer/SchematicPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/printer/nbtsync/NBTSync.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/printer/nbtsync/NBTSyncCommandBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/printer/nbtsync/NBTSyncSign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/printer/nbtsync/SyncRegistry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/printer/registry/IExtraClick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/printer/registry/IOffset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/printer/registry/IValidBlockFacing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/printer/registry/IValidPlayerFacing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/printer/registry/PlacementData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/printer/registry/PlacementRegistry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/RenderSchematic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/SchematicRenderCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/ViewFrustumOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/chunk/CompiledOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/chunk/OverlayRenderDispatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/chunk/container/SchematicChunkRenderContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/chunk/container/SchematicChunkRenderContainerList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/chunk/container/SchematicChunkRenderContainerVbo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/chunk/overlay/ISchematicRenderChunkFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/chunk/overlay/RenderOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/chunk/overlay/RenderOverlayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/chunk/proxy/SchematicRenderChunkList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/chunk/proxy/SchematicRenderChunkVbo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/renderer/shader/ShaderProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/util/BlockList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/util/BlockStateToItemStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/util/FlipHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/util/RotationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/world/SchematicWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/world/chunk/ChunkProviderSchematic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/client/world/chunk/ChunkSchematic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/command/CommandSchematicaBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/command/CommandSchematicaDownload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/command/CommandSchematicaList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/command/CommandSchematicaRemove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/command/CommandSchematicaSave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/command/client/CommandSchematicaReplace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/handler/ConfigurationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/handler/DownloadHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/handler/PlayerHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/handler/QueueTickHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/handler/client/GuiHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/handler/client/InputHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/handler/client/OverlayHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/handler/client/RenderTickHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/handler/client/TickHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/handler/client/WorldHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/nbt/NBTConversionException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/nbt/NBTHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/network/PacketHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/network/message/MessageCapabilities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/network/message/MessageDownloadBegin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/network/message/MessageDownloadBeginAck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/network/message/MessageDownloadChunk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/network/message/MessageDownloadChunkAck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/network/message/MessageDownloadEnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/network/transfer/SchematicTransfer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/proxy/ClientProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/proxy/CommonProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/proxy/ServerProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/reference/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/reference/Names.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/reference/Reference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/util/FileFilterSchematic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/util/ItemStackSortType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/world/WorldDummy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/world/WorldProviderSchematic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/world/chunk/SchematicContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/world/schematic/SchematicAlpha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/world/schematic/SchematicClassic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/world/schematic/SchematicFormat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/world/schematic/SchematicStructure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/world/schematic/SchematicUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/world/schematic/UnsupportedFormatException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/world/storage/SaveHandlerSchematic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/lunatrius/schematica/world/storage/Schematic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tterrag/blur/BlurPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tterrag/blur/BlurTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tterrag/blur/config/BlurConfigGui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tterrag/blur/config/BlurGuiFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tterrag/blur/util/ShaderResourcePack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/SalHackMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/BindCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/FontCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/FriendCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/GitHubCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/HClipCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/HelpCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/ModuleCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/PresetsCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/ResetGUICommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/SoundReloadCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/ToggleCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/UnbindCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/VClipCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/impl/WaypointCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/command/util/ModuleCommandListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/MinecraftEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/blocks/EventCanCollideCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/blocks/EventGetBlockReachDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/blocks/EventSetOpaqueCube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/client/EventClientTick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/entity/EventEntityAdded.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/entity/EventEntityRemoved.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/entity/EventHorseSaddled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/entity/EventSteerEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/liquid/EventLiquidCollisionBB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/minecraft/GuiScreenEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/network/EventNetworkPacketEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/network/EventNetworkPostPacketEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/packet/PacketEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/particles/EventParticleEmitParticleAtEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerApplyCollision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerClickBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerDamageBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerDestroyBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerElytraFlying.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerGetLocationCape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerGetLocationSkin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerIsPotionActive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerJoin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerJump.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerLeave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerMotionUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerMove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerPushOutOfBlocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerPushedByWater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerResetBlockRemoving.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerSendChatMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerSwingArm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerTravel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/player/EventPlayerUpdateMoveState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderArmorLayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderBossHealth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderChunk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderChunkContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderEntityName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderGameOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderGetEntitiesINAABBexcluding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderGetFOVModifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderHand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderHurtCameraEffect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderLayers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderOrientCamera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderRainStrength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderSetupFog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderSign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderTooltip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderUpdateEquippedItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/EventRenderUpdateLightmap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/render/RenderEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/salhack/EventSalHackModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/salhack/EventSalHackModuleDisable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/salhack/EventSalHackModuleEnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/schematica/EventSchematicaPlaceBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/schematica/EventSchematicaPlaceBlockFull.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/events/world/EventWorldSetBlockState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/friend/Friend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/SalGuiScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/chat/SalGuiChat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/chat/SalGuiConsole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/chat/SalGuiNewChat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/chat/SalGuiTextField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/chest/SalGuiChest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/ClickGuiScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/MenuComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/item/ComponentItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/item/ComponentItemHUD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/item/ComponentItemHiddenMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/item/ComponentItemKeybind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/item/ComponentItemMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/item/ComponentItemValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/item/ComponentPresetItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/listeners/ComponentItemListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/menus/mods/MenuComponentHUDList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/menus/mods/MenuComponentModList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/component/menus/mods/MenuComponentPresetsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/click/effects/Snow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/entity/SalGuiDupeButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/GuiHudEditor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/HudComponentItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/ArmorComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/ArrayListComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/BiomeComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/ChestCountComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/CoordsComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/DirectionComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/FPSComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/HoleInfoComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/InventoryComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/KeyStrokesComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/MenuComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/NearestEntityFrameComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/NotificationComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/PingComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/PlayerCountComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/PlayerFrameComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/PvPInfoComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/SchematicaMaterialInfoComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/SelectorMenuComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/SpeedComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/StopwatchComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/TPSComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/TabGUIComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/TimeComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/TooltipComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/TotemCountComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/TrueDurabilityComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/WatermarkComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/WelcomeComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/hud/components/YawComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/ingame/SalGuiIngame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/ingame/SalGuiPlayerTabOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/gui/minecraft/SalGuiReconnectButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/main/AlwaysEnabledModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/main/ForgeEventProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/main/SalHack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/main/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/BlockManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/CapeManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/CommandManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/DirectoryManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/DiscordManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/FontManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/FriendManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/HudManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/ImageManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/ModuleManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/NotificationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/PresetsManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/TickRateManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/UUIDManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/managers/UpdateManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/MixinLoaderForge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinAbstractClientPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinAbstractHorse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinActiveRenderInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinBlockLiquid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinChunkRenderContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinEntityLivingBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinEntityLlama.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinEntityPig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinEntityPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinEntityPlayerSP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinEntityRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinGuiBossOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinGuiContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinGuiDisconnected.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinGuiMainMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinGuiNewChat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinGuiScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinItemRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinLayerArmorBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinMapItemRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinMinecraft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinModelPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinMovementInputFromOptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinNetworkManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinParticleManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinPlayerControllerMP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinRenderChunk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinRenderLivingBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinRenderManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinRenderPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinTileEntitySignRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinVisGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/mixin/client/MixinWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/Module.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/Value.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/ValueListeners.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/chat/ChatModificationsModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/chat/MessageModifierModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/chat/PopBobSexDupeModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/AimbotModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/AntiBots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/AntiCityBossModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/Auto32kModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/AutoArmorModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/AutoCityModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/AutoCrystalModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/AutoCrystalRewrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/AutoTotemModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/AutoTrap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/AutoTrapFeet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/BowSpamModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/CriticalsModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/HoleFillerModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/KillAuraModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/MiddleClickPearlModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/OldAutoCrystalRewrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/SelfTrapModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/SurroundModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/combat/VelocityModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/exploit/CrashExploitModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/exploit/EntityDesyncModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/exploit/GhostModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/exploit/LiquidInteractModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/exploit/MountBypassModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/exploit/NewChunksModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/exploit/NoInteractModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/exploit/NoMiningTrace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/exploit/PacketCancellerModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/exploit/PacketFlyModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/exploit/PortalGodModeModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/AntiAFKModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/AutoDuperModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/AutoEatModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/AutoMendArmorModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/AutoMountModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/AutoReconnectModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/AutoRespawnModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/AutoSignModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/AutoTameModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/BuildHeightModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/ChatNotifierModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/ChestStealerModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/ChestSwapModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/DiscordRPCModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/FakePlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/FriendsModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/GlobalLocationModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/HotbarCacheModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/ManualDupeModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/MiddleClickFriendsModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/StopWatchModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/TotemPopNotifierModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/VisualRangeModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/misc/XCarryModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/AntiLevitationModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/AutoWalkModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/BlinkModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/ElytraFlyModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/EntityControlModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/EntitySpeedModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/FlightModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/GlideModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/HorseJump.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/JesusModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/NoFallModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/NoRotateModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/NoSlowModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/ParkourJump.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/SafeWalkModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/SneakModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/SpeedModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/SprintModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/StepModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/movement/YawModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/AntiFog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/BlockHighlightModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/BreakHighlightModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/BrightnessModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/CityESPModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/EntityESPModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/FreecamModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/HoleESPModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/MobOwnerModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/NametagsModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/NoRenderModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/ShulkerPreviewModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/SkeletonModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/SmallShield.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/StorageESPModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/TracersModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/TrajectoriesModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/ViewClipModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/VoidESPModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/render/WaypointsModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/schematica/PrinterBypassModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/schematica/PrinterModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/ui/ChestModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/ui/ClickGuiModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/ui/ColorsModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/ui/ConsoleModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/ui/DupeModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/ui/HudEditorModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/ui/HudModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/ui/KeybindsModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/ui/ReliantChatModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/AutoBuilderModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/AutoHighwayBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/AutoNameTagModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/AutoToolModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/AutoTunnelModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/AutoWitherModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/CoordsSpooferModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/EnderChestFarmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/FastPlaceModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/NoGlitchBlocksModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/NoWeatherModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/NukerModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/ScaffoldModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/SpeedyGonzales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/StashFinderModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/StashLoggerModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/TimerModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/module/world/TorchAnnihilatorModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/preset/Preset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/BlockInteractionHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/CrystalUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/HilbertCurve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/Hole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/MathUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/ReflectionUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/RotationSpoof.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/SalUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/SalVec3d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/Timer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/colors/ColorUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/colors/SalRainbowUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/entity/EntityUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/entity/ItemUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/entity/PlayerUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/imgs/ImageFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/imgs/SalDynamicTexture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/render/AbstractGui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/render/ChatColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/render/ESPUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/render/GLUProjection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/render/GeometryMasks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/render/ParticleRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/render/RenderUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/util/render/SalFontRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/waypoints/Waypoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ionar/salhack/waypoints/WaypointManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/AngelCodeFont.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/Animation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/AppGameContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/AppletGameContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/BasicGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/BigImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/CachedRender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/CanvasGameContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/ControlledInputReciever.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/ControllerListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/Font.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/GameContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/Graphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/ImageBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/InputListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/KeyListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/MouseListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/MusicListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/PackedSpriteSheet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/Renderable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/SavedState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/ScalableGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/ShapeFill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/SlickException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/Sound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/SpriteSheet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/SpriteSheetFont.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/TrueTypeFont.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/UnicodeFont.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/XMLPackedSheet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/command/BasicCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/command/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/command/Control.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/command/ControllerButtonControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/command/ControllerControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/command/ControllerDirectionControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/command/InputProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/command/InputProviderListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/command/KeyControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/command/MouseButtonControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/command/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/data/defaultfont.fnt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/data/defaultfont.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/data/helvetica_svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/data/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/data/particle.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/fills/GradientFill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/fills/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/Glyph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/GlyphPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/HieroSettings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/effects/ColorEffect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/effects/ConfigurableEffect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/effects/Effect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/effects/EffectUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/effects/FilterEffect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/effects/GradientEffect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/effects/OutlineEffect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/effects/OutlineWobbleEffect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/effects/OutlineZigzagEffect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/font/effects/ShadowEffect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/BasicTriangulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Curve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Ellipse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/GeomUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/GeomUtilListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/MannTriangulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/MorphShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/NeatTriangulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/OverTriangulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Path.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Polygon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/RoundedRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/ShapeRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/TexCoordGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Transform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Triangulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/Vector2f.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/geom/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/gui/AbstractComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/gui/BasicComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/gui/ComponentListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/gui/GUIContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/gui/MouseOverArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/gui/TextField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/gui/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/imageout/ImageIOWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/imageout/ImageOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/imageout/ImageWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/imageout/ImageWriterFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/imageout/TGAWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/imageout/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/loading/DeferredResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/loading/LoadingList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/loading/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/muffin/FileMuffin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/muffin/Muffin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/muffin/WebstartMuffin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/muffin/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/AiffData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/Audio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/AudioImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/AudioInputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/AudioLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/DeferredSound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/MODSound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/NullAudio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/OggData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/OggDecoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/OggInputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/OpenALStreamPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/SoundStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/StreamSound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/WaveData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/openal/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/CompositeIOException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/CompositeImageData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/CursorLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/DeferredTexture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/EmptyImageData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/GLUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/ImageData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/ImageDataFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/ImageIOImageData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/InternalTextureLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/LoadableImageData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/PNGDecoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/PNGImageData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/SlickCallable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/TGAImageData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/Texture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/TextureImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/TextureLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/pbuffer/FBOGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/pbuffer/GraphicsFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/pbuffer/PBufferGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/pbuffer/PBufferUniqueGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/renderer/DefaultLineStripRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/renderer/ImmediateModeOGLRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/renderer/LineStripRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/renderer/QuadBasedLineStripRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/renderer/Renderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/renderer/SGL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/opengl/renderer/VAOGLRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/particles/ConfigurableEmitter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/particles/ConfigurableEmitterFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/particles/Particle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/particles/ParticleEmitter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/particles/ParticleIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/particles/ParticleSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/particles/effects/FireEmitter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/particles/effects/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/particles/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/BasicGameState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/GameState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/StateBasedGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/transition/BlobbyTransition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/transition/CombinedTransition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/transition/CrossStateTransition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/transition/EmptyTransition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/transition/FadeInTransition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/transition/FadeOutTransition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/transition/HorizontalSplitTransition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/transition/RotateTransition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/transition/SelectTransition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/transition/Transition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/state/transition/VerticalSplitTransition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/Diagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/Gradient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/InkscapeLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/LinearGradientFill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/Loader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/NonGeometricData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/ParsingException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/RadialGradientFill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/SVGMorph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/SimpleDiagramRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/inkscape/DefsProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/inkscape/ElementProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/inkscape/EllipseProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/inkscape/GroupProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/inkscape/InkscapeNonGeometricData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/inkscape/LineProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/inkscape/PathProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/inkscape/PolygonProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/inkscape/RectProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/inkscape/UseProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/inkscape/Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/svg/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/AlphaMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/AnimationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/AntiAliasTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/BigImageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/BigSpriteSheetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/CachedRenderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/CanvasContainerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/CanvasSizeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ClipTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/CopyAreaAlphaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/CurveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/DeferredLoadingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/DistanceFieldTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/DoubleClickTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/DuplicateEmitterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/FlashTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/FontPerformanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/FontTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/GUITest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/GeomAccuracyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/GeomTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/GeomUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/GeomUtilTileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/GradientImageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/GradientTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/GraphicsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ImageBufferEndianTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ImageBufferTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ImageCornerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ImageGraphicsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ImageMemTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ImageOutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ImageReadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ImageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/InkscapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/InputProviderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/InputTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/IsoTiledTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/KeyRepeatTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/LameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/LineRenderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/MorphSVGTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/MorphShapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/MusicListenerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/NavMeshTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/PackedSheetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ParticleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/PedigreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/PolygonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/PureFontTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/SavedStateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ScalableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/ShapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/SlickCallableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/SoundPositionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/SoundTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/SoundURLTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/SpriteSheetFontTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/StateBasedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/TestBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/TestUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/TexturePaintTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/TileMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/TransformTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/TransformTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/TransitionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/TransparentColorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/TrueTypeFontPerformanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/UnicodeFontTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/states/TestState1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/states/TestState2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/states/TestState3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/states/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/xml/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/xml/GameData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/xml/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/xml/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/xml/ItemContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/xml/ObjectParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/xml/Stats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/xml/XMLTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tests/xml/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tiled/Layer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tiled/TileSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tiled/TiledMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/tiled/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/Bootstrap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/BufferedImageUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/ClasspathLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/DefaultLogSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/FastTrig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/FileSystemLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/FontUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/InputAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/LocatedImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/LogSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/MaskUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/OperationNotSupportedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/ResourceLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/ResourceLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/AStarHeuristic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/AStarPathFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/Mover.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/Path.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/PathFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/PathFindingContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/TileBasedMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/heuristics/ClosestHeuristic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/heuristics/ClosestSquaredHeuristic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/heuristics/ManhattanHeuristic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/navmesh/Link.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/navmesh/NavMesh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/navmesh/NavMeshBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/navmesh/NavPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/navmesh/Space.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/pathfinding/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/xml/ObjectTreeParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/xml/SlickXMLException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/xml/XMLElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/xml/XMLElementList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/xml/XMLParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/newdawn/slick/util/xml/package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/blur/lang/en_US.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/core/lang/de_de.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/core/lang/en_us.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/core/lang/fr_fr.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/core/lang/ru_ru.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/core/lang/zh_cn.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/fonts/TwCenMTStd-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/fonts/TwCenMTStd-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/fonts/lucdia-console.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/fonts/tcm.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/fonts/verdanabold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/Arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/BlueBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/BlueGui.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/OutlinedEllipse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/SalHackWatermark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/Shield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/Title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/blockimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/mouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/particles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/questionmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/robotimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/salhack/imgs/skull.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/ca_es.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/cs_cz.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/da_dk.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/de_de.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/en_gb.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/en_pt.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/en_us.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/es_es.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/es_mx.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/fi_fi.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/fr_fr.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/hu_hu.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/it_it.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/ja_jp.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/ko_kr.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/la_la.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/lt_lt.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/nl_nl.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/no_no.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/pl_pl.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/pt_pt.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/ru_ru.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/sk_sk.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/sl_si.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/th_th.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/tr_tr.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/uk_ua.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/lang/zh_cn.lang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schematica/shaders/alpha.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/darwin/libdiscord-rpc.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/linux-x86-64/libdiscord-rpc.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mixins.salhack.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/pack.mcmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/salhack_at.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/shaders/post/fade_in_blur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/shaders/program/fade_in_blur.fsh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/shaders/program/fade_in_blur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/win32-x86-64/discord-rpc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/win32-x86/discord-rpc.dll" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kriea" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kriea" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kriea" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kriea" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D7EunbhjvSOD5UV9MYxyis31Zk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+      <command value="gradle clean" />
+      <command value="gradle dependentComponents" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.kriea [buildDependents]">
+    <configuration name="kriea [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="kriea [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="kriea [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="kriea [dependentComponents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependentComponents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.kriea [buildDependents]" />
+        <item itemvalue="Gradle.kriea [dependentComponents]" />
+        <item itemvalue="Gradle.kriea [clean]" />
+        <item itemvalue="Gradle.kriea [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acc3e499-018e-49d9-8c12-c35ed745840d" name="Changes" comment="" />
+      <created>1660041950698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660041950698</updated>
+    </task>
+    <servers />
+  </component>
+</project>
