@@ -24,7 +24,7 @@ public class WatermarkComponent extends HudComponentItem
     public WatermarkComponent()
     {
         super("Watermark", 2, 2);
-        SetHidden(false);
+        SetHidden(true);
     }
 
     @Override
