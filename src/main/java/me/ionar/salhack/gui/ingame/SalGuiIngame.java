@@ -21,7 +21,7 @@ public class SalGuiIngame extends GuiIngameForge
         ReliantChatModule l_Mod = (ReliantChatModule)ModuleManager.Get().GetMod(ReliantChatModule.class);
         
         if (l_Mod != null && l_Mod.isEnabled())
-            l_Mod.Activate()c;
+            l_Mod.Activate();
     }
 
     @Override
